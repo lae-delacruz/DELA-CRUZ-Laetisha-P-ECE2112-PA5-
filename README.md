@@ -20,4 +20,4 @@
 - Cramer's Method was done through the use of loop n = 1:5. This is so that the process will be repeated for all 5 equations.
 - A copy of A was stored in An and the nth column of An is replaced by B.
 - The detrimant of the new matrix *det(An)* is divided by the determinant of the original matrix A.
-- - The program successfully ran in the Command Window.
+- The program successfully ran in the Command Window.
